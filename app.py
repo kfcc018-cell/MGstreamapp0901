@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Hello 포켓몬 마스터 👋")
+st.title("Hello 웜마 나가 니애비여 👋")
 st.markdown(
     """ 
     This is a playground for you to try Streamlit and have fun. 
